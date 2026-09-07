@@ -1,3 +1,4 @@
+#deployment gating
 deployments:
 deploymentGating:
     enabled: true 
