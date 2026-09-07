@@ -1,7 +1,7 @@
 deployments:
 deploymentGating:
     enabled: true 
-    retry: 50 
+    retry: 200
     sleep: 30 
     environments: 
     - Development
