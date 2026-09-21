@@ -1,0 +1,1 @@
+{"name": "Deploy Webstore", "on": {"push": {"branches": ["main"]}}, "jobs": {"deploy": {"runs-on": "ubuntu-latest", "environment": "Production", "steps": [{"name": "Deploy application", "run": "echo 'Deploying webstore to Production' && sleep 5 && echo 'Deployment complete'"}]}}}
