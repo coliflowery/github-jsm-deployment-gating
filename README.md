@@ -1,4 +1,4 @@
-# NTUC Genie - Data Platform Pipeline Sync 123
+# NTUC Genie - Data Platform Pipeline Sync
 
 ## Overview 
 
