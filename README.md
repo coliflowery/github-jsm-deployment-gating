@@ -1,6 +1,6 @@
-# NTUC Genie - Data Platform Pipeline Sync
+# NTUC Genie - Data Platform Pipeline Syncs
 
-## Overview
+## Overview 
 
 This repository contains the data platform pipeline sync system for NTUC Genie's inter-agency data integration.
 
