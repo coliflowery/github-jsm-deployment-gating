@@ -1,0 +1,12 @@
+#deployment gating
+deployments:
+deploymentGating:
+    enabled: true 
+    retry: 200
+    sleep: 40 
+    environments: 
+    - Development
+    - Production
+  services:
+    ids:
+    - b:YXJpOmNsb3VkOmdyYXBoOjpzZXJ2aWNlL2VhOWQwNmJhLTJmOTAtNDA1Yi05YTY0LWMwYTUyNDVkM2NkNS9iMDY5NTk1Mi01ZWVkLTExZjEtODk4Ni0wYWZmY2YwZmJkMDk=
